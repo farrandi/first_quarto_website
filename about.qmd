@@ -1,5 +1,11 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site. This is boilerplate from quarto.
+## Hello There!
+
+![](blue_cartoon.PNG){width=250}
+
+I am Farrandi Hernando. You can call me Nando.
+
+Click here to checkout my actual website: <https://www.farrandi.com/>

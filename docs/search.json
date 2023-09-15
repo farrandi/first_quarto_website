@@ -2,28 +2,35 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site. This is boilerplate from quarto."
+    "text": "I am Farrandi Hernando. You can call me Nando.\nClick here to checkout my actual website: https://www.farrandi.com/"
+  },
+  {
+    "objectID": "about.html#hello-there",
+    "href": "about.html#hello-there",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Farrandi Hernando. You can call me Nando.\nClick here to checkout my actual website: https://www.farrandi.com/"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto_website",
+    "title": "Nando’s Quarto Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello!\nThis is my first quarto website. This was created following the tutorial at: https://quarto.org/docs/websites."
   },
   {
     "objectID": "readme.html",
     "href": "readme.html",
-    "title": "First Quarto website",
+    "title": "Nando's Quarto website",
     "section": "",
     "text": "Following https://quarto.org/docs/websites/"
   },
   {
     "objectID": "readme.html#lecture-4-quarto-website-sep-13-2023",
     "href": "readme.html#lecture-4-quarto-website-sep-13-2023",
-    "title": "First Quarto website",
+    "title": "Nando's Quarto website",
     "section": "",
     "text": "Following https://quarto.org/docs/websites/"
   }
